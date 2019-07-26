@@ -3,7 +3,7 @@ A full automatized library, where all the books distribution are made by robots 
 
 # Installation
 
-````pip install pygame
+```pip install pygame
 pip install random
 pip install os
 pip install numpy```
