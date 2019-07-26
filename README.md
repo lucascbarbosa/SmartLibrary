@@ -6,4 +6,4 @@ A full automatized library, where all the books distribution are made by robots 
 ```pip install pygame
 pip install random
 pip install os
-pip install numpy```
+pip install numpy
